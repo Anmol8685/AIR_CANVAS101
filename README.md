@@ -16,3 +16,6 @@ Algorithm
 5.Finally draw the points stored in array on the frames and canvas .
 
 Requirements: python3 , numpy , opencv installed on your system.
+
+![WhatsApp Image 2024-10-19 at 10 26 43_0e5acb4c](https://github.com/user-attachments/assets/a4a46ad4-e174-4857-ad8c-a7f006c8f5ba)
+
